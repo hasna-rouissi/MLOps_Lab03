@@ -1,4 +1,4 @@
-#Lab3 : Versionnement des données et pipelines ML avec DVC
+# Lab3 : Versionnement des données et pipelines ML avec DVC
 
 ##Étape 1 : Initialisation de DVC dans le projet
 
