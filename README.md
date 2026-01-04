@@ -1,6 +1,6 @@
 
-
 Étape 1 : Initialisation de DVC dans le projet
+<img width="616" height="295" alt="image" src="https://github.com/user-attachments/assets/9c8bc68b-25f8-441f-bab2-3e1a6a571411" />
 <img width="650" height="277" alt="image" src="https://github.com/user-attachments/assets/c3537d23-6c72-4d71-bfcb-3a46cf864374" />
 <img width="646" height="85" alt="image" src="https://github.com/user-attachments/assets/e060e0f7-00b1-4689-a548-fae87dd8dbea" />
 
